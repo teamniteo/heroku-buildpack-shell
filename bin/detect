@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# If there is no .heroku/run.sh, then don't apply this buildpack
+[[ ! -f "$1/.heroku/run.sh" ]] &&  exit 1
+
+echo "Niteoweb Shell"
