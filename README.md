@@ -33,3 +33,7 @@ Based on https://github.com/weibeld/heroku-buildpack-run/
 
 Licensed under the MIT License. See [LICENSE.md](LICENSE.md) file.
 
+We're hiring!
+-------------
+
+At Niteo we regularly contribute back to the Open Source community. If you do too, we'd like to invite you to [join our team](https://niteo.co/careers)!
